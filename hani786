@@ -32,7 +32,7 @@ bbg="\e[104m"
 #functions 
 
 meta() {
-git clone https://github.com/shadowwalker005/metasploit
+git clone https://github.com/hani786/metasploit
 
 }
 
@@ -41,19 +41,14 @@ cd
 pkg update
 pkg install wget
 pkg install git
-git clone https://github.com/shadowwalker005/ngrok
+git clone https://github.com/hani786/ngrok
 cd
 cd ngrok
 unzip ngrok-2.2.8-linux-arm.zip
 chmod 777 ngrok
 mv ngrok /data/data/com.termux/files/usr/bin/
 cd
-clear
-echo "${bt}${green} ~ Get Your Token"
-echo " ~ Goto ngrok.com Create An Account And Copy Your Token"
-echo " Token Will Look Like This: ${yellow}1auz7a28ssniq182usbkqk18181w8wsb"
-read -p "${cyan} ~ Paste Your Token Here: " token
-ngrok authtoken #token
+ngrok authtoken 1dPiXczAgzc0C06i82AJEuoZiEs_39P11tVadtwL96GycACk9
 cd && rm -rf ngrok
 clear
 ngr_path="$PREFIX/bin/ngrok"
@@ -73,7 +68,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/shadowwalker005/shellphish
+git clone https://github.com/hani786/shellphish
 cd shellphish
 chmod 777 *
 cd
@@ -91,7 +86,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/shadowwalker005/saycheese
+git clone https://github.com/hani786/saycheese
 cd saycheese
 chmod 777 *
 cd
@@ -108,7 +103,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/shadowwalker005/underhanded
+git clone https://github.com/hani786/underhanded
 cd underhanded
 chmod 777 *
 cd
@@ -142,7 +137,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/shadowwalker005/sayhello
+git clone https://github.com/hani786/sayhello
 cd sayhello
 chmod 777 *
 cd
@@ -159,7 +154,7 @@ pkg install git
 pkg install php
 pkg install wget
 pkg install httrack
-git clone https://github.com/shadowwalker005/inshackle
+git clone https://github.com/hani786/inshackle
 cd inshackle
 chmod 777 *
 cd
@@ -173,7 +168,7 @@ pg() {
 cd
 pkg update
 pkg install git
-git clone https://github.com/shadowwalker005/paygen
+git clone https://github.com/hani786/paygen
 cd paygen
 chmod 777 *
 cd
@@ -204,7 +199,7 @@ sleep 4
 
 yt() {
     echo "${cyan}${bt} Please Subscribe To My YouTube Channel"
-    echo "${cyan}${bt} Channel Link: https://tiny.cc/ShadowYT"
+    echo "${cyan}${bt} Channel Link: https://youtu.be/A3dgO3weGLI
     xdg-open https://youtube.com/shadowwalkeryt
     echo
 }
@@ -215,7 +210,7 @@ spd() {
 cd
 pkg update
 pkg install git
-git clone https://github.com/shadowwalker005/Spade
+git clone https://github.com/hani786/Spade
 cd Spade
 chmod 775 *
 bash install.sh
@@ -232,7 +227,10 @@ sw() {
 cd
 pkg update
 pkg install git
-git clone https://github.com/shadowwalker005/swc
+git clone https://github.com/hani786/swc
+
+
+
 cd swc
 chmod 775 *
 bash install.sh
@@ -251,7 +249,7 @@ cd
 pkg update
 pkg install git
 pkg install python python2
-git clone https://github.com/shadowwalker005/admin
+git clone https://github.com/hanj786/admin
 cd admin
 chmod 775 *
 cd
@@ -301,7 +299,7 @@ sty() {
 cd
 pkg update
 pkg install git
-git clone https://github.com/shadowwalker005/style
+git clone https://github.com/hani786/style
 cd style
 chmod 775 *
 bash style.sh
@@ -313,7 +311,7 @@ update_shadow() {
 cd
 pkg update
 pkg install git
-git clone https://github.com/shadowwalker005/shadow
+git clone https://github.com/hani786/Hani
 cd shadow
 chmod 775 *
 bash install.sh
@@ -329,13 +327,15 @@ clear
 #banner for shadow
 
 
-echo "${red}░██████╗██╗░░██╗░█████╗░██████╗░░█████╗░░██╗░░░░░░░██╗"
-echo "${red}██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗░██║░░██╗░░██║"
-echo "${red}╚█████╗░███████║███████║██║░░██║██║░░██║░╚██╗████╗██╔╝"
-echo "${red}░╚═══██╗██╔══██║██╔══██║██║░░██║██║░░██║░░████╔═████║░"
-echo "${red}██████╔╝██║░░██║██║░░██║██████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░"
-echo "${red}╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝░░"
-echo -e "     $bt $white$bbg Developed By Ihtisham Ali - Shadow Walker $reset"
+
+echo "${red} █╗░░██╗░█████╗░███╗░░██╗██╗
+echo "${red} █║░░██║██╔══██╗████╗░██║██║
+echo "${red} ██████║███████║██╔██╗██║██║
+echo "${red} █╔══██║██╔══██║██║╚████║██║
+echo  "${red █║░░██║██║░░██║██║░╚███║██║
+echo "${red} ═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝
+
+echo -e "     $bt $white$bbg Developed By  ʰᵃᶰᵃᶰ  Hani786 $reset"
 
 
 
@@ -343,14 +343,15 @@ echo -e "     $bt $white$bbg Developed By Ihtisham Ali - Shadow Walker $reset"
 
 
 
-echo "${bt}"
-echo "${cyan}$bt ~ YouTube: ${yellow}https://youtube.com/ShadowWalkerYT"
+echo "${bt}"yellow}
 
-echo "${cyan} $bt~ GitHub: ${yellow}https://github.com/ShadowWalker005"
+echo "${cyan}$bt ~ YouTube: ${yellow}https://youtu.be/A3dgO3weGLI
 
-echo "${cyan} $bt~ Facebook: ${yellow}https://facebook.com/ShadowWalkerYT"
+echo "${cyan} $bt~ GitHub: ${yellow}https://github.com/hanan786"
 
-echo "${cyan}$bt ~ Blogspot: ${yellow}https://shadowhub.blogspot.com"
+echo "${cyan} $bt~ Facebook: ${yellow}https://www.facebook.com/profile.php?id=100051993661543
+
+
 echo "$reset"
 echo 
 echo -e "$rbg${bt} ~ Select To Install:$reset"
@@ -391,7 +392,7 @@ elif [[ $num == 2 ]]; then
     echo " ~ This Will Install Ngrok"
     sleep 2
     ng
-    ngrok tcp 4444
+    shadow
 elif [[ $num == 3 ]]; then
     clear
     echo " ~ This Will Install Shellphish"
@@ -492,11 +493,11 @@ elif [[ $num == 00 ]]; then
     update_shadow                                           
 
 elif [[ $num == 88 ]]; then
-    xdg-open https://youtube.com/ShadowWalkerYT                                                                           
-    shadow
+    xdg-open    https://youtu.be/A3dgO3weGLI                                                      
+    hani786
 else
     clear 
-    shadow
+    hani786
 fi
 
 
