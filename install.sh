@@ -1,13 +1,13 @@
 #!/bin/bash
 
-chmod 777 shadow
-mv shadow $PREFIX/bin
+chmod 777 Hani
+mv Hani $PREFIX/bin
 cd ..
-rm -rf shadow
+rm -rf Hani
 clear
 echo
-echo " ~ Shadow Has Been Installed Successfully"
-echo " ~ Just Type shadow To Run The Script"
+echo " ~ Hani Has Been Installed Successfully"
+echo " ~ Just Type Hani To Run The Script"
 echo
 read -p ' ~ Hit Enter To Run Now...' run
-shadow
+Hani
