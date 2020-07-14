@@ -488,16 +488,16 @@ elif [[ $num == 16 ]]; then
     
 elif [[ $num == 00 ]]; then
     clear
-    echo " ~ This Will Update Shadow"
+    echo " ~ This Will Update Hani"
     sleep 2
-    update_shadow                                           
+    update_Hani                                          
 
 elif [[ $num == 88 ]]; then
     xdg-open    https://youtu.be/A3dgO3weGLI                                                      
-    hani786
+    Hani
 else
     clear 
-    hani786
+    Hani
 fi
 
 
