@@ -1,13 +1,13 @@
 # shadow
-# Developer: Ihtisham Ali - Shadow Walker
-# YouTube Channel: https://youtube.com/ShadowWalkerYT
+# Developer: Hani - Shadow Walker
+# YouTube Channel: https://youtu.be/A3dgO3weGLI
 # Facebook: https://facebook.com/ShadowWalkerYT
 # Blogspot: https://shadowhub.blogspot.com
 #
 # This Script Will Automatically Install Your Favourite Tools On Your Termux. It's A Complete Toolkit For Hackers, These Are All The Tools You Need To Hack.
 # Don't Copy Without Giving Me Credit! Script Kiddie xD
 # Show Some Support By Subscribing My Channel
-![Shadow](https://github.com/shadowwalker005/shadow/blob/master/Screenshot_2020-07-14-01-25-33.png)
+![hani](https://github.com/hani786/hani/blob/master/Screenshot_2020-07-14-01-25-33.png)
 
 #
 #
@@ -17,8 +17,8 @@
 
 # pkg install git
 
-# git clone https://github.com/shadowwalker005/shadow
-
+# git clone https://github.com/hani786/hani
+/
 # cd shadow && chmod 777 *
 
 # bash install.sh
@@ -27,6 +27,6 @@
 #
 # In Case Of Any Issues Please Feel Free To Contact Me
 #
-# Also Check Out My YouTube Channel: https://youtube.com/ShadowWalkerYT
+# Also Check Out My YouTube Channel: https://youtu.be/A3dgO3weGLI
 
 
