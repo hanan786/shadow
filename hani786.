@@ -19,11 +19,11 @@
 
 # git clone https://github.com/hani786/hani
 /
-# cd shadow && chmod 777 *
+# cd hani && chmod 777 *
 
 # bash install.sh
 #
-# Now Type shadow To Run The Script
+# Now Type hani To Run The Script
 #
 # In Case Of Any Issues Please Feel Free To Contact Me
 #
